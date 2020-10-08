@@ -1,0 +1,2 @@
+Start Time, End Time, Activity Number, Activity
+06/10/2020 23:44:00-04:00,06/10/2020 23:52:00-04:00,1, Mobile Phone
